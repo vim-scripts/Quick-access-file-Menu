@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1264
+
+This utility pulls all  the file names of a particular type  and present it in menu(currently *.c *.h and *.a51 8051 assembly).This utility is usefull when your compiler generates many object and temp files in current directory  and navigating to select files using  explorer becomes painful.
